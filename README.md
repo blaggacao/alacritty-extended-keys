@@ -6,7 +6,7 @@ Enable CSI u mode.
 
 The specification can be found at [Fix keyboard input on terminals].
 
-[Fix keyboard input on terminals]: http://leonerd.org.uk/hacks/fixterms/
+[Fix keyboard input on terminals]: http://www.leonerd.org.uk/hacks/fixterms/
 
 ## Installation
 
@@ -49,4 +49,4 @@ showkey --ascii
 
 - [Specification]
 
-[Specification]: http://leonerd.org.uk/hacks/fixterms/
+[Specification]: http://www.leonerd.org.uk/hacks/fixterms/
