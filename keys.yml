@@ -13,6 +13,11 @@ key_bindings:
   - { key: I, mods: Control, chars: "\x1b[105;5u" }
   - { key: J, mods: Control, chars: "\x1b[106;5u" }
   - { key: M, mods: Control, chars: "\x1b[109;5u" }
+ 
+  - { key: Return, mods: Control, chars: "\x1b[13;5u" }
+  - { key: Slash,  mods: Control, chars: "\x1b[47;5u" }
+  - { key: 51, mods: Shift|Control, chars: "\x1b[60;5u" } # lt
+  - { key: 52, mods: Shift|Control, chars: "\x1b[62;5u" } # gt
 
   - { key: A, mods: Control|Shift, chars: "\x1b[65;5u" }
   # - { key: B, mods: Control|Shift, chars: "\x1b[66;5u" }
